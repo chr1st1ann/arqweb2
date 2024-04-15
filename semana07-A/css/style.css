@@ -1,0 +1,17 @@
+nav {
+    background-color: thistle;
+}
+
+nav ol a {
+    background-color: #B1B695;
+    display: block;
+    list-style: none;
+    padding: 16px;
+    border: 1px dashed #654F6F;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav ol {
+    display: flex;
+    padding-left: 0;
+    background-color: #a4a985;
+}
